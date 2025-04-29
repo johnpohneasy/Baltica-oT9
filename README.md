@@ -16,6 +16,9 @@ This tool is forged for those who don't just play the game — they *own* it.
 - 🛡 **VAC Bypass + Trusted Mode Spoof** — Stay invisible, stay deadly  
 - 🚀 **HWID Spoofer** — Outsmart every detection system  
 
+![cs2 (1)](https://github.com/user-attachments/assets/db023cb1-ec5e-47d3-88cc-3396bd765ef6)
+
+
 ---
 
 ## 🛠 Installation: Ready to Wreck in 2 Minutes
@@ -64,7 +67,7 @@ Use at your own risk. Maximum stealth guaranteed.
 - **v1.2** — Initial domination module deployed  
 - **v1.4** — Trigger Bot refined for godlike reflexes  
 - **v1.6** — HWID Spoofing added for extra stealth  
-- **v2.3** — Full CS2 version update compatibility
+- **v2.7** — Full CS2 version update compatibility
 
 ---
 
